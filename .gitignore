@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.env
+venv/
+.vscode/
+*.log
+data/private/
+reports/output/
+*.pdf
+*.png
+*.jpg
+temp/
+.DS_Store
