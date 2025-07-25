@@ -1,0 +1,13 @@
+data,descricao,valor,categoria,conta
+2024-07-01,Supermercado ABC,-350.50,Alimentacao,Conta Corrente
+2024-07-02,Posto Shell,-120.00,Transporte,Conta Corrente
+2024-07-03,Salario,3500.00,Renda,Conta Corrente
+2024-07-05,Farmacia,-85.30,Saude,Conta Corrente
+2024-07-08,Netflix,-29.90,Entretenimento,Cartao
+2024-07-10,Restaurante,-180.00,Alimentacao,Cartao
+2024-07-12,Uber,-45.50,Transporte,Cartao
+2024-07-15,Academia,-89.90,Saude,Conta Corrente
+2024-07-18,Supermercado XYZ,-280.70,Alimentacao,Conta Corrente
+2024-07-20,Shopping,-450.00,Compras,Cartao
+2024-07-22,Conta de Luz,-120.50,Utilidades,Conta Corrente
+2024-07-24,Freelance,800.00,Renda,Conta Corrente
